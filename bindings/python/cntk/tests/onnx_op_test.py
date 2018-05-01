@@ -591,7 +591,7 @@ def test_LSTM(tmpdir):
     activation_options = [C.tanh]
 
     #Recurrence attributes
-    initial_state_options = [0]
+    initial_state_options = [0.23]
 
     input_dim = 2
     cell_dim = 3
