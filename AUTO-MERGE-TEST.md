@@ -5,3 +5,4 @@ Merge 3
 Merge 4
 Merge 5
 COnflict 1 from test-auto-merge
+Merge after refactoring 1
